@@ -1,5 +1,8 @@
 # vue_ts
 
+```
+vue3.0结合typescript的一个demo
+```
 ## Project setup
 ```
 npm install

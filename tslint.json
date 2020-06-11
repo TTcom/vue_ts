@@ -1,0 +1,7 @@
+{
+    "interface-name": [true, "never-prefix"],
+"rules": {
+    "interface-name": [true, "never-prefix"],
+    "@typescript-eslint/no-explicit-any": ["off"]
+  }
+}
