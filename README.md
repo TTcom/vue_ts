@@ -1,10 +1,7 @@
 # vue_ts
 
 ```
-vue-cli3 + typescript + vue/composition-api的一个demo
-```
-```
-安装npm install @vue/composition-api --save
+vue-cli3 + typescript + @vue/composition-api的一个demo
 ```
 ## Project setup
 ```
