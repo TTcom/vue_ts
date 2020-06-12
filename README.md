@@ -1,7 +1,9 @@
 # vue_ts
-
 ```
-vue-cli3 + typescript + @vue/composition-api的一个demo
+a demo
+```
+```
+vue-cli3 + typescript + @vue/composition-api
 ```
 ## Project setup
 ```
