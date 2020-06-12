@@ -1,13 +1,13 @@
 <template>
   <div class="HelloWorld">
-    <h1>{{ msg }}</h1>
-    <button type="button" @click="handleClick">button</button>
+    <h1>HelloWorld</h1>
+    <h3>{{ msg }}</h3>
+    <button type="button" @click="handleClick">向父组件专递参数</button>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "@vue/composition-api";
-
 export default defineComponent({
   name: "HelloWorld",
   props: {
