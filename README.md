@@ -1,6 +1,6 @@
 # vue_ts
 ```
-a demo
+A demo
 ```
 ```
 vue-cli3 + typescript + @vue/composition-api
