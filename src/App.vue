@@ -21,6 +21,19 @@ export default defineComponent({
     const { musics, setMusics } = useMusicListInject();
     const methods = {
       onbtn() {
+        enum days { //枚举,使用枚举我们可以定义一些带名字的常量
+          sun,
+          mon,
+          tue,
+          wed,
+          thu,
+          fri,
+          sat
+        }
+        const role = 1;
+        if (days.mon === role) {
+          console.log("dengyu role");
+        }
         const url = "/weapi/v6/playlist/detail";
         const params = qs.stringify({
           params:
